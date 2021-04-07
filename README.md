@@ -30,14 +30,14 @@ An "open challenge" focusing on NLP with predictive analytics.
   - 3. Predict the likelihood of an event occuring in a certain year
 
 - Improvements to make:
-  - 1. If LR model cannot make a prediction, it seems to assign generic probabilities (6, 7, 8, 9)
-  - Possible solutions: 
-    - tune hyperparameters of model
-    - take a larger subset of the data
-    - change ML model (SVM, KNN, or LVQ may work better)
-  - 2. Runtime for LR model takes about 10 minutes
-  - Possible solutions:
-    - tune hyperparameters of model (find a faster optimizer)
-    - take a smaller subset of the data
+  - If LR model cannot make a prediction, it seems to assign generic probabilities
+    - Possible solutions: 
+      - tune hyperparameters of model
+      - take a larger subset of the data
+      - change ML model (SVM, KNN, or LVQ may work better)
+  - Runtime for LR model takes about 10 minutes
+    - Possible solutions:
+      - tune hyperparameters of model (find a faster optimizer)
+      - take a smaller subset of the data
 
 
