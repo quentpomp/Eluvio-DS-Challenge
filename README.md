@@ -1,4 +1,4 @@
-# Eluvio-DS-Challenge
+# Natural Language Processing
 An "open challenge" focusing on NLP with predictive analytics.
 
 
